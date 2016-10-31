@@ -19,6 +19,5 @@ arr.sort(function(a,b){return a-b});
 console.log(arr);
 arr.forEach(function(element) {
   element /= 2;
-  console.log(element);
 });
-console.log(arr);
+//Couldn't find out how to adjust the values in the array. 
